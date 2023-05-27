@@ -142,10 +142,10 @@ justify-items: center;}
 }
 
 .carousel img{
-    width: 800px;
-    height: 800px;
-    display: flex;
+    width: 500px;
+    height: 500px;
     
+
 }
 .card-body{
     text-align: center;
